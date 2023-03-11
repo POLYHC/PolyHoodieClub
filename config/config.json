@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0d047164B724693E63C2C10fBd423c1AD0599786",
+  "SCAN_LINK": "https://polygonscan.com/token/0x0d047164B724693E63C2C10fBd423c1AD0599786",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Polygon Hoodie Club",
+  "SYMBOL": "PHC",
+  "MAX_SUPPLY": 9999,
+  "WEI_COST": 2000000000000000000,
+  "DISPLAY_COST": 2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/polygonhoodieclub",
+  "SHOW_BACKGROUND": true
+}
